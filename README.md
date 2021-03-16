@@ -1,3 +1,10 @@
+To PCL friends:
+
+see [GWTC1_data.ipynb](https://github.com/iphysresearch/lfi-gw/blob/master/notebooks/GWTC1_data.ipynb)
+
+---
+---
+
 # Complete parameter inference for GW150914 using deep learning
 
 [![DOI](https://zenodo.org/badge/295482413.svg)](https://zenodo.org/badge/latestdoi/295482413)
